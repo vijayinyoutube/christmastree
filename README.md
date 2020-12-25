@@ -1,4 +1,4 @@
-# christmas Tree
+# Christmas Tree
 
 Build a Christmas Tree using Flutter
 
